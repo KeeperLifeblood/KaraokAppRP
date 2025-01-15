@@ -1,0 +1,43 @@
+Lista de Tareas para el Backend
+Configuración del Proyecto
+
+Crear la estructura de carpetas para el backend.
+
+Configuración del Servidor
+
+Crear el archivo server.js.
+Configurar el servidor básico con Express.
+Configurar CORS y middlewares necesarios.
+Gestión de Canciones
+
+Configurar la base de datos para almacenar información de las canciones.
+Crear modelos y esquemas de datos.
+Implementar endpoints para CRUD de canciones:
+Crear nueva canción.
+Leer lista de canciones.
+Actualizar información de una canción.
+Eliminar una canción.
+Visualización de Letras
+
+Configurar la base de datos para almacenar las letras de las canciones.
+Implementar endpoints para gestionar las letras:
+Subir letras de una canción.
+Obtener letras de una canción.
+Análisis de Audio en Tiempo Real
+
+Investigar y seleccionar una biblioteca para análisis de audio en tiempo real.
+Implementar el procesamiento de audio en el backend para recibir y analizar datos.
+Crear endpoints para recibir datos de audio y devolver resultados del análisis.
+Autenticación y Autorización
+
+Configurar autenticación de usuarios (e.g., usando JWT).
+Implementar registro e inicio de sesión de usuarios.
+Proteger endpoints que requieren autenticación.
+Pruebas y Documentación
+
+Escribir pruebas unitarias y de integración para los endpoints.
+Documentar la API utilizando herramientas como Swagger.
+Despliegue
+
+Configurar el entorno de producción.
+Desplegar el backend en un servidor o servicio en la nube.
